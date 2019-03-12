@@ -1,0 +1,1 @@
+let str : string = 'this is typeScript';
